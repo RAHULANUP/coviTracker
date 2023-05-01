@@ -1,0 +1,23 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+.app__header{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+}
+.app__stats{
+  display:flex;
+  justify-content:space-between;
+}
+.app{
+  display:flex;
+  justify-content:space-evenly;
+}
+.app__left{
+  flex:0.9;
+}
+h1{
+  color:rgb(33, 33, 167);
+}
