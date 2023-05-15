@@ -4,6 +4,10 @@ Allows users to easily find the number of COVID-19 cases in different countries
 around the world. With this app, you can stay up-to-date on the latest COVID-19 statistics 
 and make informed decisions about travel, social gatherings, and other activities.
 
+## Credits
+Clever Programmer
+Link to the Youtube Video : [https://www.youtube.com/live/cF3pIMJUZxM?feature=share](https://www.youtube.com/live/cF3pIMJUZxM?feature=share)
+
 ## Hosting URL
 
 Hosting URL : [https://covitracker-e7d98.web.app](https://covitracker-e7d98.web.app)
