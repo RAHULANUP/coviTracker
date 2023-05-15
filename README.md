@@ -5,7 +5,7 @@ around the world. With this app, you can stay up-to-date on the latest COVID-19 
 and make informed decisions about travel, social gatherings, and other activities.
 
 ## Credits
-Clever Programmer
+Clever Programmer \
 Link to the Youtube Video : [https://www.youtube.com/live/cF3pIMJUZxM?feature=share](https://www.youtube.com/live/cF3pIMJUZxM?feature=share)
 
 ## Hosting URL
